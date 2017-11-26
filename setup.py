@@ -16,10 +16,10 @@ setup(
         "Development Status :: 4 - Beta",
     ],
 
-    packages=['community'],
+    packages=['communityD'],
     install_requires=[
         "networkx",
     ],
 
-    scripts=['bin/community']
+    scripts=['bin/communityD']
 )
